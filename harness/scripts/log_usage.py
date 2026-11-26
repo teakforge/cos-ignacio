@@ -20,3 +20,13 @@ rows = [r for r in (json.loads(l) for l in f.read_text().splitlines() if l.strip
 rows = [r for r in rows if r["session_id"] != sid]
 rows.append({"session_id": sid, "ts": datetime.datetime.now().astimezone().isoformat(timespec="seconds"), "model": model, **tot})
 f.write_text("".join(json.dumps(r) + "\n" for r in rows))
+# Auto-commit solo del archivo de telemetría para no dejar el árbol sucio
+import subprocess
+try:
+    subprocess.run(["git", "-C", str(root), "add", str(f)], check=True, capture_output=True)
+    if subprocess.run(["git", "-C", str(root), "diff", "--cached", "--quiet"]).returncode:
+        subprocess.run(["git", "-C", str(root), "-c", "user.name=Aguno", "-c", "user.email=noreply@teakforge",
+                        "commit", "-q", "-m", "Telemetría: consumo de tokens", "--", str(f)], check=True, capture_output=True)
+        subprocess.run(["git", "-C", str(root), "push", "-q"], capture_output=True, timeout=60)
+except Exception:
+    pass
