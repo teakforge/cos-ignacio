@@ -10,3 +10,4 @@
 | Contrato de excavadora (Canedo) | Contrato listo; falta definir la razón social contratante (¿Logtiv?) | Paulina Jiménez | Datos de la contraparte | — | Baja |
 | Estudio de generación eléctrica (Electriz) | Pago a programar vía ERP contra contrato | Carlos Rojas | Contrato firmado | — | Baja |
 | CHEP: modelo financiero Gmelina y avance 2027 | Reunión semanal | Carlos Rojas | Weekly del 26-nov, 16:00 | 2026-11-26 | Media |
+| FAP: responsabilidad por el juicio del autobús | Recomendación de que AGSA la asuma formalmente | Ignacio (decide) | Postura | 2026-11-26 | Alta |
