@@ -7,4 +7,4 @@ Se ejecuta en cada despertar programado.
 5. Si no toca nada: termina en silencio con una sola línea, "Sin rutinas.", sin commit.
 6. Por cada rutina que toque: ejecútala al pie de la letra, anótala en `runs.md` (fecha, rutina, ok/falla) y en `activity.md`, y haz commit y push.
 7. Si una rutina falla, anota la causa y avisa en el resumen final.
-7. Revisa también `core/reminders.md`: incluye en el push los recordatorios que vencen hoy o según su anticipación.
+8. Revisa también `core/reminders.md`: incluye en el push los recordatorios que vencen hoy o según su anticipación.
