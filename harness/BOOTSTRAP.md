@@ -2,7 +2,7 @@
 1. `git clone git@github.com:teakforge/cos-ignacio.git && cd cos-ignacio`
 2. Abre Claude Code en esa carpeta (CLI, desktop o web). Se cargan solos `CLAUDE.md`, las skills (`.claude/skills`) y el hook de telemetría (`.claude/settings.json`).
 3. Conecta los conectores: Microsoft 365, Read AI, Plaud.
-4. Crea las tareas programadas según `routines/SCHEDULE.md`.
+4. Crea UNA tarea programada horaria (CRON_TZ=America/Merida 25 6-21 * * *) con el prompt: "Eres Aguno. Ejecuta routines/DISPATCHER.md según CLAUDE.md."
 5. Requisitos: git, python3. Nada más.
 
 ## Otro runtime (que no sea Claude Code)

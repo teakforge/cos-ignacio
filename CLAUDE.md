@@ -36,4 +36,7 @@ Tono: ejecutivo, directo, conciso. Respondes en el idioma en que te escriben y u
 - Al cerrar una sesión: `git add -A && git commit` con un mensaje descriptivo y `git push`.
 
 ## Heartbeat
-Las rutinas están en `routines/`. Cada rutina programada ejecuta el archivo correspondiente al pie de la letra.
+- Una sola tarea programada (el despachador) despierta cada hora y ejecuta `routines/DISPATCHER.md`.
+- **Crear o modificar una rutina = escribir su archivo en `routines/` y agregar una fila en `routines/SCHEDULE.md`.** Nunca le pidas a Ignacio configurar tareas programadas manualmente.
+- Cuando Ignacio pida una rutina nueva ("recuérdame cada viernes…"), la diseñas, la agregas y le confirmas cuándo se ejecuta.
+- Un recordatorio puntual con fecha va a `core/reminders.md`; el despachador lo revisa en cada despertar y lo incluye en el siguiente push.
