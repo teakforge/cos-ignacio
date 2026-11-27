@@ -10,3 +10,4 @@
   - Fideicomiso F/162 Ve por Más (TRG Management LP fideicomisario "B"): en curso la reversión de inmuebles para aportarlos a BBVA. Esto confirma que TRG = The Rohatyn Group.
   - DEG (Sergio Viso): propone visitar la plantación aprovechando un evento en Mérida del 23 al 25 de febrero de 2027.
   - Odoo: Josué (TOH Soluciones) requiere tu visto bueno para unos desarrollos de arranque (Héctor reenvió el 26-nov).
+- 2026-11-27 (morning brief): Paulina respondió sobre el FAP (apelación presentada). Dataverse del tenant al 100% de capacidad. WIREX (Polonia) confirma la importación definitiva de trozas para pruebas. Carlos Rojas añadió notas de cargas de la semana 48 (faltaron planas lunes y martes; lluvia desde el miércoles).

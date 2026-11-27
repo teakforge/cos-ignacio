@@ -14,3 +14,4 @@
 | Presupuesto 2027 (volumen por destino y suministro a aserraderos) | En construcción | Carlos Rojas | Componentes de cosecha | — | Media |
 | Visita de DEG a la plantación | Propuesta: 23–25 de febrero de 2027 (evento en Mérida) | Ignacio / Rodrigo | Responder a Sergio Viso | — | Media |
 | Odoo: desarrollos de arranque | Requiere tu visto bueno | Ignacio | Responder a Héctor y Josué | 2026-11-27 | Media |
+| WIREX (Polonia): trozas de teca para pruebas de fábrica | Logística de importación | Emmanuel León / Eduardo Sierra | Envío | — | Media |
