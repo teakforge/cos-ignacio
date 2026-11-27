@@ -3,3 +3,10 @@
 - 2026-11-25 (evening close): Capturados 8 temas desde el correo y el calendario. Alerta de liquidez. Reunión con PM Steele (sin resumen en Read AI todavía).
 - 2026-11-25: Adín Márquez propone que el patio de trozas de Bengala quede bajo custodia de ADP (decisión pendiente).
 - 2026-11-26: Carlos Rojas y Paulina recomiendan que AGSA asuma formalmente la responsabilidad del juicio del autobús (FAP). Decisión pendiente de Ignacio.
+- 2026-11-26 (evening close):
+  - Caja: después de la nómina de la semana 47 hay $2.7M disponibles. Compromisos: IMSS $1.16M + RCV $1.68M = $2.84M, déficit de ~$0.14M antes de otros pagos (correo de Alejandro García). Aprobado el pago anual del seguro de tractocamiones (fuente por definir con Rodrigo).
+  - Modelo de producción y costos de Bengala (Read AI): 145,561 m³ de trozas, salida de ~60,000 m³ (41% de rendimiento). Conversión $55M y producción $108M (sin materia prima). El arranque de Bengala entre enero y marzo puede restringir valor agregado y la capacidad de pago de deuda hasta marzo. Inventario mínimo recomendado de 5,000 m³.
+  - Reporte de cosecha (Read AI): 54 cargas en la semana (7 Balancán, 47 Huimanguillo), 58 de exportación. Las lluvias limitan los frentes. Pago de caminos autorizado vía fideicomiso. Riesgo de empresa facturera en la razón social de Germán (revisa Eduardo Salazar). La camioneta comprada a Julio Hernández tiene 74k km reales contra 21k reportados.
+  - Fideicomiso F/162 Ve por Más (TRG Management LP fideicomisario "B"): en curso la reversión de inmuebles para aportarlos a BBVA. Esto confirma que TRG = The Rohatyn Group.
+  - DEG (Sergio Viso): propone visitar la plantación aprovechando un evento en Mérida del 23 al 25 de febrero de 2027.
+  - Odoo: Josué (TOH Soluciones) requiere tu visto bueno para unos desarrollos de arranque (Héctor reenvió el 26-nov).

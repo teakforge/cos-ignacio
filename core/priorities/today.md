@@ -1,13 +1,8 @@
-# Hoy — jueves 2026-11-26 (morning brief 06:25)
+# Mañana — viernes 2026-11-27 (preparado por el evening close)
 ## Top 3
-1. **Liquidez de AGSA:** después de la nómina de hoy quedan ~$25k. Definir el fondeo de la semana 48 hoy.
-2. **Decisión sobre el FAP:** Carlos Rojas y Paulina recomiendan formalizar que AGSA asume la responsabilidad del pago que pudiera resultar del juicio del autobús. Correo de Carlos del 25-nov a las 21:09. Requiere tu postura.
-3. **Seguridad del tenant de Microsoft (Entra):** validar con TI el aviso de lectura no autorizada.
-## Agenda (hora de Mérida)
-- 16:00 AGSA & CHEP weekly (modelo Gmelina, avance 2027)
-- 18:00 Reporte de cosecha (organizas tú)
-## Por vencer
-- Lun 30-nov: secciones del consejo; respuesta de TRG sobre Davis Polk.
-## Notas
-- La reunión con PM Steele del 25-nov sigue sin resumen en Read AI.
-- Aún no hay prioridades del mes ni del año, así que no puedo medir la coherencia.
+1. **Caja:** $2.7M contra $2.84M de IMSS + RCV, un déficit de ~$0.14M antes de proveedores. Define con Rodrigo la prelación de pagos y el fondeo.
+2. **Consejo:** la presentación se completa entre viernes y lunes. Tus pendientes: reunión con Víctor Hugo sobre los datos de cosecha para Dean, y fijar los supuestos operativos y financieros.
+3. **Decisiones abiertas:** FAP (juicio del autobús), visto bueno a Odoo (Josué), custodia del patio de Bengala por ADP.
+## Seguimientos
+- Responder a Sergio Viso (DEG) sobre la visita del 23 al 25 de febrero.
+- Aviso de seguridad de Microsoft Entra (sigue abierto).
