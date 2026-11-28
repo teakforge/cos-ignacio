@@ -11,3 +11,9 @@
   - DEG (Sergio Viso): propone visitar la plantación aprovechando un evento en Mérida del 23 al 25 de febrero de 2027.
   - Odoo: Josué (TOH Soluciones) requiere tu visto bueno para unos desarrollos de arranque (Héctor reenvió el 26-nov).
 - 2026-11-27 (morning brief): Paulina respondió sobre el FAP (apelación presentada). Dataverse del tenant al 100% de capacidad. WIREX (Polonia) confirma la importación definitiva de trozas para pruebas. Carlos Rojas añadió notas de cargas de la semana 48 (faltaron planas lunes y martes; lluvia desde el miércoles).
+- 2026-11-27 (evening close):
+  - Caja: $3.75M en bancos + $0.8M en el fideicomiso (traspaso el lunes 30). Rodrigo fijó la prelación: impuestos federales el viernes, RCV el lunes, después proveedores según su lista. La tensión de liquidez de la semana se resolvió.
+  - CHEP envió el borrador del Definitive Supply Agreement de madera en pie de Gmelina (mensaje cifrado con Purview; hay que abrirlo en Outlook).
+  - Víctor Hugo compartió la secuencia de frentes de trabajo 2027 (propuesta de aprovechamiento).
+  - Verdas (Petteri): los datos de lotes ya están en Iptmin; faltan regímenes, costos y precios. Cuestiona crecimientos atípicos (30 cm de diámetro y 20 m de altura a los 5–6 años en Teca de Oro).
+  - Invitación al Americas Mass Timber Challenge (28-ene-2027, virtual).

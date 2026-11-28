@@ -15,3 +15,5 @@
 | Visita de DEG a la plantación | Propuesta: 23–25 de febrero de 2027 (evento en Mérida) | Ignacio / Rodrigo | Responder a Sergio Viso | — | Media |
 | Odoo: desarrollos de arranque | Requiere tu visto bueno | Ignacio | Responder a Héctor y Josué | 2026-11-27 | Media |
 | WIREX (Polonia): trozas de teca para pruebas de fábrica | Logística de importación | Emmanuel León / Eduardo Sierra | Envío | — | Media |
+| CHEP: Definitive Supply Agreement de Gmelina | Borrador recibido el 27-nov | Carlos Rojas / Rodrigo | Revisión legal y comercial | — | Alta |
+| Verdas: modelo de crecimiento y rendimiento (Iptmin) | Datos cargados; faltan regímenes, costos y precios | Víctor Hugo | Responder a Petteri | — | Media |
